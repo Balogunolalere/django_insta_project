@@ -14,3 +14,4 @@
 # insta_project/posts/urls.py: 1
 # insta_project/posts/views.py: 2,4
 Django == 3.0.3
+gunicorn == 20.0.4
